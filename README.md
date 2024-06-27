@@ -11,7 +11,7 @@
 - ☁ I've keen interest in Machine Learning. So,I'm learning *ML*
 - 📝 I write research Papers on Machine Learning
 - 💬 Ask me about *react, react-native, nodejs, mongoDB*
-- 📫 Feel free to reach me out *astha27sharma@gmail.com*
+- 📫 Feel free to reach me out *mayankkishorekarn@gmail.com*
 <!--Intro end-->
 
 ## 🛠 My Skills
