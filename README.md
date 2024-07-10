@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mayank Kishore! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5DF7&random=false&width=435&lines=Software+Developer;Open+source+Contributor;Hackthon+Winner;Code+%3C%2F%3E+Debug+%3C%2F%3E++Code)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5DF7&random=false&width=435&lines=Software+Developer;Open+source+Contributor;Code+%3C%2F%3E+Debug+%3C%2F%3E++Code)](https://git.io/typing-svg"></a>
 </p>
 
 ##  About Me
