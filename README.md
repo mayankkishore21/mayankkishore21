@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5DF7&random=false&width=435&lines=Software+Developer;Open+source+Contributor;Hackthon+Winner;Code+%3C%2F%3E+Debug+%3C%2F%3E++Code)](https://git.io/typing-svg"></a>
 </p>
 
-## 👩🏻 About Me
+##  About Me
 
 <!--Intro start-->
 - 🔭 I’m currently working on *React, React Native, Nodejs, MongoDB, Python, Machine Learning, Data structure*
@@ -16,7 +16,7 @@
 
 ## 🛠 My Skills
 
-### 👩🏻‍💻 Programming Languages 
+###  Programming Languages 
 
 <p align="left"> 
   &emsp; 
@@ -92,17 +92,6 @@
 
 - [Customer Segmentation with RFM analysis using ML models]
 - [SImplementation of models for Demand forecasting for e-commerce using time series forecasting]
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img alt="Mayank Kishore's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Astra-Stark&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkishore21&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mayank Kishore" height="230px"/>
-</p>
-
-<hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
 <a href= "https://github.com/Astra-Stark"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
