@@ -74,14 +74,4 @@
 ## 📄 Research Papers
 
 - [Customer Segmentation with RFM analysis using ML models]
-- [SImplementation of models for Demand forecasting for e-commerce using time series forecasting]
-
-<p align="center">
-<a href= "https://github.com/Astra-Stark"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/astha-sharma-8a9538210/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-</p>
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=geekyamitesh.Astra-Stark" alt="visitor badge"/>       
-</p>
-</p>
+- [Implementation of models for Demand forecasting for e-commerce using time series forecasting]
