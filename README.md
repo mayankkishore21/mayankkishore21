@@ -52,26 +52,9 @@
   &emsp;
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
   &emsp;
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white">
-  &emsp;
-  <img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white">
-  &emsp;
   <img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
   &emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white">
-</p>
-
-### 🤖 IDEs
-
-<p align="left">
-  &emsp;
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  &emsp;
-  <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=plastic&logo=apache-netbeans-ide&logoColor=white">
-  &emsp;
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white">
-  &emsp;
-  <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=atom&logoColor=white">
 </p>
 
 ## 🎓 Education
