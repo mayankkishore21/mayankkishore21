@@ -61,7 +61,7 @@
 
 - Bachelors in Engineering (Computer Science) from Chandigarh University, Gharuan
   - Session: 2021-2025
-  - CGPA: 8.35
+  - CGPA: 8.56
 
 - Intermediate (CBSE) from R.A.N Public School, Rudrapur
   - Session: 2019-2020
